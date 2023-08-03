@@ -1,0 +1,53 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+body{
+    background-image: url('img/1254725-rain-drops-window-light-blur.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+#container{
+    background-color:rgb(168, 165, 165) ;
+    box-shadow: 3px 4px 3px 4px #e7e7e7;
+    width: 400px;
+    padding: auto;
+    text-align: center;
+    padding: 1em;
+}
+li{
+    list-style: none;
+}
+input{
+    outline: none;
+    padding: 8px 15px;
+    border: 2px solid grey;
+}
+button{
+    outline: 0;
+    border: 0;
+    border-radius: 5px;
+    padding: 8px 14px;
+    background-color: #1b1b1b;
+    color: white;
+    font-size: 18px;
+}
+#temperature{
+    font-weight: 600;
+}
+#tip-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+#tip-info{
+    font-size: 18px;
+}
+#temp, #min-temp, #max-temp{
+    margin-left: 8px;
+}
