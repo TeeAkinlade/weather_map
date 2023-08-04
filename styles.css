@@ -4,7 +4,7 @@
     box-sizing:border-box;
 }
 body{
-    background-image: url('img/1254725-rain-drops-window-light-blur.jpg');
+    background-image: url('img/video_image-AD6NLLr6O.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     display: grid;
@@ -12,8 +12,8 @@ body{
     justify-content: center;
 }
 #container{
-    background-color:rgb(168, 165, 165) ;
-    box-shadow: 3px 2px 3px 3px #e7e7e7;
+    background-color:#fff ;
+    box-shadow: 3px 2px 3px 3px #a8a5a5;
     width: 400px;
     padding: auto;
     text-align: center;
